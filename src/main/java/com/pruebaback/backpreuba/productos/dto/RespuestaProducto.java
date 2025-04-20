@@ -9,7 +9,7 @@ import lombok.NoArgsConstructor;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
-public class RespuestaGuardarProducto {
+public class RespuestaProducto {
     private String mensaje;
     private Producto producto;
 }
