@@ -6,4 +6,6 @@ import com.pruebaback.backpreuba.productos.model.Producto;
 
 @Repository
 public interface ProductoRepository extends JpaRepository<Producto, Long> {
+
+    
 }
